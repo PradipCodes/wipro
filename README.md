@@ -1,2 +1,2 @@
 # Wipro
-Learning Material of Wipro Talennt Next Program
+Learning Material of Wipro Talent Next Program
