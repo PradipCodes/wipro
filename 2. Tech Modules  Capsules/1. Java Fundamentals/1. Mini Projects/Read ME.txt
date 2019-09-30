@@ -1,0 +1,3 @@
+Topics Covered By
+1.Java Architecture, Language Basics, Flow Control Statements, Arrays
+2.Over all concepts of Mile 1
